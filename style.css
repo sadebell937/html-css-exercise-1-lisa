@@ -1,0 +1,36 @@
+header{
+
+    color:rgba(red, green, blue, alpha);
+    background-color:#551a8b;
+    display: flex;
+}
+
+
+div.nav bar {
+    background-color:#551a8b;
+    display: flex-start;
+
+}
+
+span{
+    position: absolute;
+    justify-content: space-between;
+    color: royalblue;
+    width: 100%;
+    bottom: 0px;
+    background-color: rgba(247, 193, 162, 0.7);
+
+}
+
+#right {
+    text-align: right;
+    background-color: rgba(247, 193, 162, 0.7);
+    
+}
+
+
+
+
+
+
+
